@@ -7,9 +7,9 @@
 
 ## 📚 Table of Contents
 
-- [3.1 Challenges I Experienced](#31-challenges-i-experienced-in-eda-inferential-regression-analysis-and-regression-for-machine-learning)
-- [3.2 Why These Challenges Happened & What I Learned](#32-why-did-these-challenges-happen--what-did-i-learn)
-- [3.3 What I Need to Do Better Next Time](#33-what-i-need-to-do-better-next-time)
+- [3.1 What are the challenges I experienced in doing Exploratory Data Analysis, Inferential Regression Analysis, and Regression for Machine Learning?](#31-challenges-i-experienced-in-eda-inferential-regression-analysis-and-regression-for-machine-learning)
+- [3.2 What could have been the reason why such an event happened?](#32-why-did-these-challenges-happen--what-did-i-learn)
+- [3.3 Now what do I need to do better next time?](#33-what-i-need-to-do-better-next-time)
 
 ---
 
@@ -50,7 +50,7 @@ All of these made the machine learning part feel both interesting and overwhelmi
 
 ---
 
-## 3.2. Why Did These Challenges Happen? What Did I Learn?
+## 3.2. What could have been the reason why such an event happened?. What are the things we have learned so that we can improve from this experience?
 
 These challenges happened mainly because many of the concepts, tools, and techniques were still **new to me**.
 
